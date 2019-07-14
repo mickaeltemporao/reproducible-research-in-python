@@ -1,1 +1,1 @@
-# workshop-computational_social_science
+# Workshop on computational Social Science
