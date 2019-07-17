@@ -6,3 +6,10 @@
 - [ ] hi-res headshot
 - [ ] title for the public talk 
 - [ ] title for the workshop
+
+
+
+## Agenda
+
+- Python basics
+- Libraries 
