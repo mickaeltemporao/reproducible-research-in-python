@@ -28,3 +28,9 @@ Director of Data Science @Delphia
     Latex
     R
     Python
+
+IDEA 
+extract GSS w/ requests/bs/url3
+EDA w/ pandas
+Model w/ sklearn
+API w/ flask
