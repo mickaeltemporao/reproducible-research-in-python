@@ -1,4 +1,4 @@
-# Workshop: Open Source Reproducible Research in Python
+# Reproducible Research in Python
 
 ## Requirements & Setup
 
