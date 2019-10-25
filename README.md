@@ -42,4 +42,4 @@ The source for the materials of this course is on GitHub at [mickaeltemporao/rep
 ## Contact
 For any follow-up questions:
 - twitter: [@mickaeltemporao](https://twitter.com/mickaeltemporao)
-- email: mickael.temporao [at] gmail.com
+- email: mickael.temporao [at] gmail [dot] com
