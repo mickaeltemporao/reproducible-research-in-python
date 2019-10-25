@@ -29,9 +29,14 @@ This workshop is divided into three parts. The first part is an introduction the
 - [seaborn: statistical data visualization](https://seaborn.pydata.org/examples/index.html)
 - [SciKit-Learn](https://scikit-learn.org/stable/)
 - [Python Regular Expressions](https://www.w3schools.com/python/python_regex.asp)
+
+Python Packaging and Dependency Management
 - [Minimal Package Structure](https://python-packaging.readthedocs.io/en/latest/minimal.html)
+- [Project Templates](https://cookiecutter.readthedocs.io/en/latest/index.html)
+    - [Cookiecutter PyPackage](https://github.com/audreyr/cookiecutter-pypackage)
+- [Guidelines to document your code](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_numpy.html)
 - [Guidelines to choose a licencse](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository)
-- [Guidelines to document your scripts](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_numpy.html)
+- [Packaging and Dependency Management with Poetry](https://poetry.eustace.io)
 
 
 ## License and credit
