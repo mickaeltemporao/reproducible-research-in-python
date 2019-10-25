@@ -42,7 +42,7 @@ Python Packaging and Dependency Management
 ## License and credit
 Science should be open and shared. This workshop is inspired and built on top of other open licensed material, so unless otherwise noted, all materials for this workshop are licensed under the Creative Commons Attribution Share Alike 4.0 International License.
 
-The source for the materials of this course is on GitHub at [mickaeltemporao/reproducible-research-in-python](https://github.com/mickaeltemporao/reproducible-research-in-python).
+The source for the materials of this workshop is on GitHub at [mickaeltemporao/reproducible-research-in-python](https://github.com/mickaeltemporao/reproducible-research-in-python).
 
 ## Contact
 For any follow-up questions:
