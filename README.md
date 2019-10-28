@@ -1,5 +1,4 @@
 # Reproducible Research in Python
-_Workshop at McMaster University, October 25th 2019_
 
 This notebook was created as part of a workshop on *Reproducible Research in Python*. 
 - You can access the workshop materials here: [Reproducible Research in Python](https://github.com/mickaeltemporao/reproducible-research-in-python).
