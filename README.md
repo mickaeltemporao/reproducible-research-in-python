@@ -26,9 +26,9 @@ This workshop is meant to provide a brief introduction to
 [Python](https://www.python.org/) with a focus towards Data Science. The workshop is divided into three parts: The first part provides an introduction the Python programming language. The second part of the workshop will guide you through data acquisition, cleaning and exploration. In the third and last part, you will learn how to train, save, load, and make predictions your own machine learningmodels.
 
 ### Agenda
-- [Python Basics](#python-basics) 
-- [Data Acquisition and Exploration](#data-acquisition-and-exploration)
-- [Data Pre-Processing and Modeling](#data-pre-processing-and-modeling)
+- [Python Basics](https://github.com/mickaeltemporao/reproducible-research-in-python/blob/master/notebooks/01-python-basics.ipynb) 
+- [Data Acquisition and Exploration](https://github.com/mickaeltemporao/reproducible-research-in-python/blob/master/notebooks/02-data-acquisition-and-exploration.ipynb)
+- [Data Pre-Processing and Modeling](https://github.com/mickaeltemporao/reproducible-research-in-python/blob/master/notebooks/03-data-preprocessing-and-modeling.ipynb)
 
 ## Software
 - [Python 3.6.8+](https://docs.python-guide.org/starting/installation/) 
