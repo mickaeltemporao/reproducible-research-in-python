@@ -11,31 +11,50 @@ Learn by doing and try to avoid copy/pasting.
 Feel free to ask questions at any time during the workshop.
 
 ## Prerequisites
-Prior to the workshop, users need to:
-- [ ] Account on [Google Colab](https://colab.research.google.com/) 
-- [ ] Account on [GitHub](https://github.com/)
+The workshop assumes no prior knowledge of the Python programming language. Familiarity with R, vectors, data frames, and basic statistical analyses, such as linear regression is helpful but not required.
+
+- Students are expected to have a computer or a laptop to follow along the coding section of each session.
 
 ## Structure
-This workshop is divided into three parts. The first part is an introduction the [Python](https://www.python.org/) programming language where you will learn the basics of the language and how to use built-in libraries. The second part of the workshop will teach you how to acquire, explore, and transform data. In the third and last part, you will learn how to train, save, and load models from data.
+
+<p align="center">
+  <img src="http://www.forimpact.org/wp-content/uploads/2014/01/HowToDrawOwl.jpg">
+</p>
+
+
+This workshop is meant to provide a brief introduction to 
+[Python](https://www.python.org/) with a focus towards Data Science. The workshop is divided into three parts: The first part provides an introduction the Python programming language. The second part of the workshop will guide you through data acquisition, cleaning and exploration. In the third and last part, you will learn how to train, save, load, and make predictions your own machine learningmodels.
+
+### Agenda
+- [Python Basics](#python-basics) 
+- [Data Acquisition and Exploration](#data-acquisition-and-exploration)
+- [Data Pre-Processing and Modeling](#data-pre-processing-and-modeling)
 
 ## Software
-- [ ] [Python 3.6.8+](https://docs.python-guide.org/starting/installation/) 
+- [Python 3.6.8+](https://docs.python-guide.org/starting/installation/) 
 
 ## Resources
-- [The Python Package Index](https://pypi.org/)
-- [Installing Python Pakcages](https://packaging.python.org/tutorials/installing-packages/)
-- [Pandas Cheatsheet](http://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
-- [seaborn: statistical data visualization](https://seaborn.pydata.org/examples/index.html)
-- [SciKit-Learn](https://scikit-learn.org/stable/)
+
+- [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
 - [Python Regular Expressions](https://www.w3schools.com/python/python_regex.asp)
 
-Python Packaging and Dependency Management
+### Data Exploration and Transformation
+- [Pandas Data Analysis](https://pandas.pydata.org/)
+    - [Pandas Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+    - [Scalable analytics in Python](https://dask.org/)
+- [matplotlib](https://matplotlib.org/)
+- [seaborn: statistical data visualization](https://seaborn.pydata.org/examples/index.html)
+
+### Data Modeling
+- [SciKit-Learn](https://scikit-learn.org/stable/)
+
+### Python Packaging and Dependency Management
 - [Minimal Package Structure](https://python-packaging.readthedocs.io/en/latest/minimal.html)
 - [Project Templates](https://cookiecutter.readthedocs.io/en/latest/index.html)
     - [Cookiecutter PyPackage](https://github.com/audreyr/cookiecutter-pypackage)
+- [Packaging and Dependency Management with Poetry](https://poetry.eustace.io)
 - [Guidelines to document your code](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_numpy.html)
 - [Guidelines to choose a licencse](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository)
-- [Packaging and Dependency Management with Poetry](https://poetry.eustace.io)
 
 
 ## License and credit
