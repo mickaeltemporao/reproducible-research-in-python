@@ -23,7 +23,7 @@ The workshop assumes no prior knowledge of the Python programming language. Fami
 
 
 This workshop is meant to provide a brief introduction to 
-[Python](https://www.python.org/) with a focus towards Data Science. The workshop is divided into three parts: The first part provides an introduction the Python programming language. The second part of the workshop will guide you through data acquisition, cleaning and exploration. In the third and last part, you will learn how to train, save, load, and make predictions your own machine learningmodels.
+[Python](https://www.python.org/) with a focus towards Data Science and Reproducible Research. The workshop is divided into three parts: The first part provides an introduction the Python programming language. The second part of the workshop will guide you through data acquisition, cleaning and exploration. In the third and last part, you will learn how to train, save, load, and make predictions your own machine learningmodels.
 
 ### Agenda
 - [Python Basics](https://github.com/mickaeltemporao/reproducible-research-in-python/blob/master/notebooks/01-python-basics.ipynb) 
