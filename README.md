@@ -1,12 +1,8 @@
 # Reproducible Research in Python
 
-This notebook was created as part of a workshop on *Reproducible Research in Python*. 
-- You can access the workshop materials here: [Reproducible Research in Python](https://github.com/mickaeltemporao/reproducible-research-in-python).
-
 ## Important Note
 
-This is a hands on workshop. It is better if you start coding along with me during the workshop, experiment bugs and try to understand your errors. 
-Learn by doing and try to avoid copy/pasting.
+This is a hands on workshop. It is better if you start coding along with me during the workshop, experiment bugs and try to understand your errors. Learn by doing and avoid copy/pasting.
 
 Feel free to ask questions at any time during the workshop.
 
