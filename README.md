@@ -61,4 +61,4 @@ The source for the materials of this workshop is on GitHub at [mickaeltemporao/r
 ## Contact
 For any follow-up questions:
 - twitter: [@mickaeltemporao](https://twitter.com/mickaeltemporao)
-- email: mickael.temporao [at] gmail [dot] com
+- email: mickael [dot] temporao [at] gmail [dot] com
